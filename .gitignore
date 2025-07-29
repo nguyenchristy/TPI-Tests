@@ -1,0 +1,12 @@
+# Compiled class files
+*.class
+
+# TypeScript compiled output  
+*.js.map
+
+# Node modules
+node_modules/
+
+# Build directories
+build/
+dist/
