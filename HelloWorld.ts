@@ -1,3 +1,4 @@
+console.log("hi");
 const message = "hello world";
 console.log(message);
 
